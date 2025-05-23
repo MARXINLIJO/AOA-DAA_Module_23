@@ -20,8 +20,8 @@ To write a Python program using A Naive recursive implementation of Minimum Cost
 ## Program:
 ```
 A program to implement to find the Minimum Cost Path Problem using a  Naive recursive Approach.
-Developed by: LOKNAATH P
-Register Number: 212223240080
+Developed by: MARXIN LIJO M
+Register Number: 212223240085
 ```
 ```py
 R = int(input())
